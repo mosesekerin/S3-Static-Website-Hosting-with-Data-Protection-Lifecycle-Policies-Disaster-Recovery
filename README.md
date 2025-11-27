@@ -51,7 +51,7 @@ By completing this project, I implemented the following:
                    ↓
           [Backup Bucket in Another Region]
 ```
-
+![Architectural Diagram](architecture.png)
 ---
 
 ##  **Technologies Used**
