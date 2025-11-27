@@ -1,6 +1,6 @@
-# Ì≥Å **S3 Static Website Hosting with Data Protection, Lifecycle Policies & Disaster Recovery**
+# **S3 Static Website Hosting with Data Protection, Lifecycle Policies & Disaster Recovery**
 
-## Ì≥ù **Project Overview**
+## **Project Overview**
 
 This project demonstrates how to host, secure, and manage a static website for a small caf√© business using **Amazon S3**.
 It was built as part of a cloud challenge lab to simulate a real-world scenario in which a business transitions from zero cloud presence to a modern, secure, cost-optimized cloud architecture.
@@ -9,7 +9,7 @@ The website showcases the caf√©‚Äôs services while implementing **AWS best pract
 
 ---
 
-## ÌæØ **Objectives**
+##  **Objectives**
 
 By completing this project, I implemented the following:
 
@@ -38,7 +38,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ìøó **Architecture Diagram**
+##  **Architecture Diagram**
 
 ```
 [Local Files] ‚Üí [S3 Bucket (Static Website)] ‚Üí [Public Website]
@@ -54,7 +54,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ìª† **Technologies Used**
+##  **Technologies Used**
 
 * **Amazon S3**
 * **S3 Bucket Policies (IAM)**
@@ -65,7 +65,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ì∫Ä **How It Works**
+##  **How It Works**
 
 1. Website files are uploaded to a public S3 bucket.
 2. S3 serves the files as a static website.
@@ -75,7 +75,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ì≥Ç **Repository Structure**
+##  **Repository Structure**
 
 ```
 /website
@@ -92,7 +92,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ì≥ò **Key Learnings**
+##  **Key Learnings**
 
 * Designing cloud solutions using AWS foundational services.
 * Configuring secure static website hosting.
@@ -102,7 +102,7 @@ By completing this project, I implemented the following:
 
 ---
 
-## Ì≤º **Why This Project Matters (For Recruiters)**
+##  **Why This Project Matters (For Recruiters)**
 
 This project demonstrates real DevOps and cloud capability, including:
 
@@ -116,6 +116,6 @@ It reflects the ability to build functional cloud solutions based on real busine
 
 ---
 
-## Ì≥£ **Feel Free to Explore**
+##  **Feel Free to Explore**
 
 Pull requests, issues, or suggestions for improvement are welcome.
